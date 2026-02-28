@@ -1,0 +1,5 @@
+{
+  "name": "KTU Academic Risk & Intelligence System",
+  "description": "A role-based academic analytics SaaS dashboard for students and teachers to monitor academic risk, attendance, and credits.",
+  "requestFramePermissions": []
+}
